@@ -1,4 +1,4 @@
-FROM ubuntu:trusty
+FROM centos:7.2.1511
 
 ADD   http://dl.cnezsoft.com/zentao/9.2.1/ZenTaoPMS.9.2.1.zbox_64.tar.gz  /tmp
 
